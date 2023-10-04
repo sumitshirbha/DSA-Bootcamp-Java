@@ -9,6 +9,7 @@
 # Questions
 
 ## Easy
+- [Bubble Sort][Selection Sort][Insertion Sort](https://leetcode.com/problems/sort-the-people/)done
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
