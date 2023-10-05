@@ -9,6 +9,7 @@
 # Questions
 
 ## Easy
+- [Quick sort g&g](https://practice.geeksforgeeks.org/problems/quick-sort/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) done
 - [Bubble Sort|Selection Sort|Insertion Sort](https://leetcode.com/problems/sort-the-people/)done
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)done
 - [Majority Element](https://leetcode.com/problems/majority-element/)done
