@@ -11,7 +11,7 @@
 ## Easy
 - [Bubble Sort|Selection Sort|Insertion Sort](https://leetcode.com/problems/sort-the-people/)done
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)done
-- [Majority Element](https://leetcode.com/problems/majority-element/)
+- [Majority Element](https://leetcode.com/problems/majority-element/)done
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
