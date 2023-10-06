@@ -14,7 +14,7 @@
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)done
 - [Majority Element](https://leetcode.com/problems/majority-element/)done
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)done
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)done quick sort (can be optimse with hashset)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
