@@ -24,7 +24,7 @@
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)done
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)done
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)done
-- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)done
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 - [Height Checker](https://leetcode.com/problems/height-checker/)
 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
